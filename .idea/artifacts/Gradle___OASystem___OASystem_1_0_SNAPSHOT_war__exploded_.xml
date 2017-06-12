@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : OASystem : OASystem-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/OASystem-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpJbXBsZW1lbnRhdGlvbi1UaXRsZTogT0FTeXN0ZW0NCkltcGxlbWVudGF0aW9uLVZlcnNpb246IDEuMC1TTkFQU0hPVA0KQnVpbGQtVG9vbDogR3JhZGxlDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/OASystem-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="OASystem_main/web/Web Gradle : OASystem-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="OASystem_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis-docbook:1.0.0" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis-2-spring:1.0.3" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis:3.4.4" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/3.9/5d5e41354e88322e4bc590b31f3d2d1d52b3e6ac/poi-3.9.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.5/cf993e250ff71804754ec2734a16f23c0be99f70/commons-codec-1.5.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
